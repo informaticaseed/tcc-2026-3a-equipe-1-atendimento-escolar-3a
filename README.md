@@ -7,9 +7,11 @@
 
 | Nome completo          | GitHub    | Turma |
 |------------------------|-----------|-------|
-| Guilherme de Sousa Paz | @username | 3A |
-| (nome 2) | @username | 3A |
-| (nome 3) | @username | 3A |
+| Guilherme de Sousa Paz | @GuilhermeSPaz18 | 3A |
+| (nome 67)Doutor melhor jogador de Roblox         | @username | 3A |
+| (nome 67)               | @username | 3A |
+| (nome 67)               | @username | 3A |
+| (nome 67)               | @username | 3A |
 
 **Tema:** (escreva aqui em 1 frase)
 **Tecnologia:** Python + Flask + SQLite
