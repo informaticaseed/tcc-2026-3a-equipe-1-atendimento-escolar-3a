@@ -5,9 +5,9 @@
 
 ## 👥 Integrantes
 
-| Nome completo | GitHub | Turma |
-|--------------|--------|-------|
-| (nome 1) | @username | 3A |
+| Nome completo          | GitHub    | Turma |
+|------------------------|-----------|-------|
+| Guilherme de Sousa Paz | @username | 3A |
 | (nome 2) | @username | 3A |
 | (nome 3) | @username | 3A |
 
