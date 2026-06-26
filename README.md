@@ -7,7 +7,7 @@
 
 | Nome completo          | GitHub    | Turma |
 |------------------------|-----------|-------|
-| Alessa | @username | 3A |
+| Alessa | @alessa | 3A |
 | Caio Vitor | @username | 3A |
 | Daniel Alves| @username | 3A |
 | Guilherme de Sousa Paz | @GuilhermeSPaz18 | 3A |
