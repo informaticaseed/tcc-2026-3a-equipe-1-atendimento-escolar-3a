@@ -16,7 +16,7 @@ Neste bimestre eu deixei de entregar algumas atividades dentro do prazo. Também
 
 ## 5. Plano para o 3º bimestre
 
-- Entregar todas as atividades antes do prazo.
+- Entregar todas as atividades antes do prazo
 - Participar mais das aulas e tirar dúvidas quando necessário. 
 - Estudar um pouco toda semana para não acumular conteúdo.
 
