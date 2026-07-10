@@ -7,5 +7,5 @@
 Explique a diferença entre app.py e repositorio.py e por que isso importa.->A separação de camadas é dividir o código para que cada arquivo tenha uma função. O app.py cuida da execução do programa e da interação com o usuário, enquanto o repositorio.py organiza e acessa os dados. Isso deixa o código mais organizado, fácil de entender e de fazer manutenção.
 
 7. O que você deixou de fazer neste bimestre e por quê?->Deixei de fazer algumas atividades de algumas matérias para priorizar outras e não me organizei corretamente.
-   
+        
 9. 5. Plano para o 3o bimestre->No 3º bimestre vou me organizar melhor para entregar todas as atividades no prazo, prestar mais atenção nas aulas e tirar as dúvidas quando precisar. Também vou tentar não deixar as tarefas acumularem para conseguir ter um desempenho melhor.
