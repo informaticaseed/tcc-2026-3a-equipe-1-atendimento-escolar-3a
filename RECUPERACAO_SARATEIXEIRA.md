@@ -1,3 +1,4 @@
+
 1. O que é uma Issue e para que serve no desenvolvimento de software? ->Uma issue é um registro de uma tarefa, problema ou melhoria que precisa ser feita em um projeto de software. Ela serve para organizar o trabalho da equipe, acompanhar o andamento das atividades e garantir que nada seja esquecido.
 2. O que é um Pull Request e por que ele é importante?->Um Pull Request é um pedido para juntar as alterações feitas no código com o projeto principal. Ele é importante porque permite que outras pessoas revisem o código antes de aprovar, ajudando a evitar erros e melhorar a qualidade do projeto.
 3. O que é separação de camadas no código?
