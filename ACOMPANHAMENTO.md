@@ -1,6 +1,6 @@
 # Acompanhamento Quinzenal — Prof. Rafael
-**Grupo:** [Nome do Grupo]
-**Turma:** 3A / 3B / 3C
+**Grupo:** Atendimento Escolar
+**Turma:** 3A
 **Repositório:** [link]
 
 ---
@@ -11,9 +11,16 @@
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Caio | relatório semanal 1 e introdução do relatório final|
+| Alessa | Testar plataformas de IA: wix, wordpress IA e Hostinger; caso der certo iniciar a criação do site |
+| Daniel| relatório: requisitos  e relatório semanal 2 |
+| Guilherme| Testar plataformas de IA: lovable e canva |
+| Sara Teixeira| relatório: diagrama de caso de uso|
+
+backlog:
+- Criação do site em uma outra plataforma
+- Testar plataformas de IA: lovable, wix, wordpress IA, canva e Hostinger
+- Iniciar relatório final
 
 ### Verificação em 08/08
 
