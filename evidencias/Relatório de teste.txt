@@ -1,0 +1,37 @@
+Relatório do Projeto:
+Escolha da Ferramenta para Desenvolver o TCC
+Integrante: Guilherme
+Grupo: 01
+Data: 21/08/2026 - 10:18
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+ 
+1. O Que Foi Testado
+Para desenvolver o projeto do TCC (a plataforma em Python), foram testadas duas ferramentas principais para facilitar a criação, interface e 
+prototipagem:
+
+Canva
+
+Lovable
+
+2. O Que Achou de Cada Ferramenta
+
+Canva
+
+Pontos Negativos: Muito complicado para o propósito do projeto. Embora seja bom para design e apresentações, para a parte de programar e estruturar
+ a lógica em Python, acabou atrapalhando e complicando mais do que ajudando.
+
+Veredito: Descartado para o desenvolvimento da plataforma.
+
+Lovable
+
+Pontos Positivos: Apresentou ótimos resultados na prática. Conseguiu gerar coisas muito úteis e acelerar o desenvolvimento, entregando o que era 
+necessário de forma simples.
+
+Pontos Negativos: O limite de uso diário na versão gratuita engessa um pouco o ritmo.
+
+Veredito: Aprovado e escolhido como a ferramenta principal para tocar o TCC.
+
+3. Conclusão
+Mesmo com a limitação de uso diário, o Lovable valeu muito mais a pena por entregar resultados práticos e prontos, enquanto o Canva não se mostrou 
+adequado para a parte de programação e desenvolvimento do sistema.
