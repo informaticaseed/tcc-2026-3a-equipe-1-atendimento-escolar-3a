@@ -15,7 +15,6 @@
 | Alessa | Testar plataformas de IA: wix, wordpress IA e Hostinger; caso der certo iniciar a criação do site |
 | Daniel| relatório: requisitos  e relatório semanal 2 |
 | Guilherme| Testar plataformas de IA: lovable e canva |
-| Sara Teixeira| relatório: diagrama de caso de uso|
 
 backlog:
 - Criação do site em uma outra plataforma
@@ -25,8 +24,8 @@ backlog:
 ### Verificação em 08/08
 
 | Integrante | Cumpriu? | Evidência (commit/Issue/PR) | Observação |
-|-----------|----------|----------------------------|------------|
-| (nome 1) | ✅ / ⚠️ / ❌ | | |
+|-----------|-----|----------------------------|------------|
+| Guilherme |  ✅ |Commits e relatório do teste na pasta evidencias | Lovable Teve resultados positivos no Teste melhor que o Canva  |
 | (nome 2) | ✅ / ⚠️ / ❌ | | |
 | (nome 3) | ✅ / ⚠️ / ❌ | | |
 
