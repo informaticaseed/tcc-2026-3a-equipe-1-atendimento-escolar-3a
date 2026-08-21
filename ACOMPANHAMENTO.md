@@ -43,7 +43,7 @@ backlog:
 | Caio | Revisão bibliográfica|
 | Alessa | Fazer site na base 44 funcional  |
 | Daniel| Responsável por passar os tópicos já feitos para padrão de relatório de TCC da escola |
-| Guilherme| Fazer site no lovable 44  |
+| Guilherme| Fazer site no lovable|
 | Kalel| relatório: diagrama de caso de uso|
 
 ### Verificação em 22/08
