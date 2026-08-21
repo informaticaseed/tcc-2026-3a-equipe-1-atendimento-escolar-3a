@@ -37,13 +37,15 @@ backlog:
 
 ## Quinzena 2 — 10/08 a 22/08
 
-### Compromissos assumidos em 10/08
+### Compromissos assumidos em 21/08
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Caio | Revisão bibliográfica|
+| Alessa | Fazer site na base 44 funcional  |
+| Daniel| Responsável por passar os tópicos já feitos para padrão de relatório de TCC da escola |
+| Guilherme| Fazer site no lovable 44  |
+| Kalel| relatório: diagrama de caso de uso|
 
 ### Verificação em 22/08
 
