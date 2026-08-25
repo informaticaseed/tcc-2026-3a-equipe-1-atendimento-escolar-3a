@@ -10,8 +10,8 @@
 | Alessa | @alessa | 3A |
 | Caio Vitor | @username | 3A |
 | Daniel Alves| @username | 3A |
-| Guilherme | @GuilhermeSPaz18 | 3A |
-| Sara Texeira | @username | 3A |
+| Guilherme Paz | @GuilhermeSPaz18 | 3A |
+| Kalel Alves | @Kalel88107 | 3A |
 
 **Tema:** Portal de Atendimento, Suporte e Ouvidoria Interna para os estudantes e servidores do CEMI.
 **Tecnologia:** Python + Flask + SQLite
