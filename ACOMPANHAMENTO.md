@@ -50,7 +50,7 @@ backlog:
 
 | Integrante | Cumpriu? | Evidência (commit/Issue/PR) | Observação |
 |-----------|----------|----------------------------|------------|
-| (nome 1) | ✅ / ⚠️ / ❌ | | |
+| Guilherme |  ⚠️  | Commits e evidências na pasta evidências| Somente o front end do TCC foi finalizado tendo que utilizar outro recurso para a criação do Back end|
 | (nome 2) | ✅ / ⚠️ / ❌ | | |
 | (nome 3) | ✅ / ⚠️ / ❌ | | |
 
