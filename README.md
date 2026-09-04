@@ -1,4 +1,4 @@
-# TCC 2026 — [Nome do Grupo]
+# TCC 2026 — Atendimento Escolar
 **LTP3 + QP3 · CEMIC 2026 · Prof. Rafael Martins Alves**
 
 ---
