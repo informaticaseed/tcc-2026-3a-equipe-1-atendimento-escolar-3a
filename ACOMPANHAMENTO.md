@@ -61,13 +61,15 @@ backlog:
 
 ## Quinzena 3 — 24/08 a 05/09
 
-### Compromissos assumidos em 24/08
+### Compromissos assumidos em 10/09
 
 | Integrante | O que se comprometeu a fazer |
 |-----------|------------------------------|
-| (nome 1) | |
-| (nome 2) | |
-| (nome 3) | |
+| Caio | Revisão bibliográfica, fazer um questionário|
+| Alessa |  Arrumar problemas no site base 44 e entender como está organizado o banco de dados |
+| Daniel| Responsável por passar os tópicos já feitos para padrão de relatório de TCC da escola, deixar o relatório parcialmente pronto |
+| Guilherme| Deploy do projeto da Base44 para o github e depois para o Vercel ou Render |
+| Kalel| relatório: diagrama de caso de uso, diagrama DFD, diagrama relacional (DER/MER), iniciar os slides |
 
 ### Verificação em 05/09
 
